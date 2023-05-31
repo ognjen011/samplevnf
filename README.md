@@ -4,7 +4,9 @@ Mirror of the OPNFV Sample Virtual Network Function Project
 INSTALL
 
 sudo bash git clone https://github.com/opnfv/samplevnf.git 
+
 cd samplevnf/VNFs/DPPD-PROX/helper-scripts/rapid 
+
 ./dockerimage.sh build
 
 ######################
